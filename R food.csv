@@ -1,0 +1,69 @@
+food-type,price,food
+C,30,sandwich
+C,30,red bean bread
+C,55,french fries
+C,15,wheel pies
+C,30,BBQ
+C,50,four pecies of chicken nuggets
+C,100,Fried chicken
+C,70,fried chicken chop
+C,50,Sweet potato balls
+C,30,roasted sweet potato
+C,45,Yogurt
+C,37,Px mart Toast
+C,30,ice cream
+C,40,Cereal
+C,30,Turnip cake
+C,60,oden
+C,380,Yannick Fresh CreamRoll
+C,380,Macaron(7 pcs)
+C,699,Macaron(12 pcs)
+C,8,banana
+A,50,sesame oil chicken rice ball
+A,30,rice ball
+A,80,fried rice
+A,80,cafteria
+A,90,rice with pork chop
+A,120, risotto
+A,40,Braised pork rice
+A,120,Oyakodon
+A,90,chicken leg bento
+A,70,?curry rice
+A,140,curry pork chops rice
+A,80,mushroom Pork thick rice
+A,40,Pork lard rice
+A,90,Barbecue bento
+A,80,Stir fried pork rice
+A,100,cheese baked rice
+A,340,salmon oyakodon
+A,40,Nigiri sushi(1 psc)
+A,540,Premium Seafood Bowl
+A,90,seafood congee
+B,80,Fried noodles
+B,85,Fried instant noodles
+B,50,plain noodles
+B,120,spaghetti
+B,50,fried rice noodles
+B,140,beef noodle
+B,70,Wonton noodles
+B,80,mushroom Pork thick soup
+B,80,Sliced noodles
+B,55,Oyster noodles
+B,50,Sesame paste noodles
+B,30,instant noodles
+B,90,Fried eel noodles
+B,90,Nabeyaki egg noodles
+B,288,ICHIRAN Ramen
+B,220,hot plate steak noodle
+B,140,hot plate steak noodle
+D,0,some soil or fresh air
+D,220,Din Tai Fung soup dumpling
+D,100,soup dumpling
+D,60,pork pot stickers(10 pcs)
+D,60,dumpling
+D,55,salad
+D,75,hamberger
+D,115,personal pizza
+D,30,Turnip cake
+D,60,braised dishes
+D,80,soup dumpling
